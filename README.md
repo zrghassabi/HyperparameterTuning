@@ -45,10 +45,13 @@ Another advantage of RandomizedSearchCV is that it can be more robust to the ris
 
 It is worth noting that both RandomizedSearchCV and GridSearchCV can be computationally expensive, especially if the model is complex and the search space is large. In these cases, it may be necessary to use techniques such as parallelization or early stopping to speed up the search process.
 
-
 Regularization by Early Stopping
 https://www.geeksforgeeks.org/regularization-by-early-stopping/
 
 8.3. Hyperparameter Tuning - GridSearchCV and RandomizedSearchCV
 https://www.bing.com/videos/riverview/relatedvideo?q=grid+search&mid=9D249546B3077B85C83F9D249546B3077B85C83F&FORM=VIRE
+
+GridSearchCV
+https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GridSearchCV.html
+https://scikit-learn.org/stable/modules/grid_search.html
 
